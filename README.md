@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hey there, I’m Keanu 👋
 
-<!--
-**NOX2912/NOX2912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an Applied Computer Science student at Ruhr University Bochum and a student assistant in macOS administration for the Institute of Diversity Medicine.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 What I’m Into
+- **Cryptography Foundations** – gave me a taste for secure systems.  
+- **Game Development** – tinkering with engines and mechanics.  
+- **Databases** – designing schemas and optimizing queries.  
+
+---
+
+### 🛠 Skills & Tools
+- **Languages:** Python (daily driver)  
+- **Platforms:** macOS administration, network backups  
+- **Tools:** scripting for automated backups  
+
+---
+
+### 🚀 Notable Project
+- **Automated Network Backup**  
+  Built a Python-powered system that automatically archives and verifies key files to our network drive—zero manual intervention required.
+
+---
+
+### 🤝 How I Work
+
+- **Collaborative Communicator**  
+  I break down technical fixes so non-tech folks actually understand what’s happening.
+
+---
+
+### 📬 Let’s Connect
+[LinkedIn](https://www.linkedin.com/in/keanu-wesley-schurkus-aba52b277?trk=contact-info) – ping me if you want to talk devops, automation, or game jams.
