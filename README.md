@@ -39,6 +39,11 @@ Currently working on improving practical development skills and building project
 
 ---
 
+### 🎓 Bachelor Thesis
+[Towards Automated Test Adaptation in Fork Ecosystems via Large Language Models](https://www.researchgate.net/publication/400205734_Towards_Automated_Test_Adaptation_in_Fork_Ecosystems_via_Large_Language_Models)
+
+---
+
 ### 📬 Contact
 
 [LinkedIn](https://www.linkedin.com/in/keanu-wesley-schurkus-aba52b277?trk=contact-info)
